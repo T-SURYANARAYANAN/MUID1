@@ -183,6 +183,14 @@ public class MainActivity extends AppCompatActivity
 
 ## OUTPUT
 
+### MainActivity.java
+<img width="1920" height="1020" alt="Screenshot 2025-09-10 092852" src="https://github.com/user-attachments/assets/882d327b-e694-40dc-bf39-e6c7da57f3b8" />
+
+
+### activity_main.xml
+<img width="1920" height="1020" alt="Screenshot 2025-09-10 092804" src="https://github.com/user-attachments/assets/cddf1f25-69cf-4f1f-ba27-1bece3e4c3c3" />
+
+
 ### onCreate()
 <img width="477" height="837" alt="Screenshot 2025-09-10 085829" src="https://github.com/user-attachments/assets/ef016cd0-47da-4cb7-ba88-a95017d0c4b4" /> 
 
