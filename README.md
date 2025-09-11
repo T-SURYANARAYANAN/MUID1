@@ -192,16 +192,16 @@ public class MainActivity extends AppCompatActivity
 
 
 ### onCreate()
-<img width="477" height="837" alt="Screenshot 2025-09-10 085829" src="https://github.com/user-attachments/assets/ef016cd0-47da-4cb7-ba88-a95017d0c4b4" /> 
+<img width="300" height="550"  alt="Screenshot 2025-09-10 085829" src="https://github.com/user-attachments/assets/ef016cd0-47da-4cb7-ba88-a95017d0c4b4" /> 
 
 ### onStart()
-<img width="468" height="835" alt="Screenshot 2025-09-10 085940" src="https://github.com/user-attachments/assets/f46e42d7-f3bf-4ea6-a95f-e2c2dd7f8c13" />
+<img width="300" height="550" alt="Screenshot 2025-09-10 085940" src="https://github.com/user-attachments/assets/f46e42d7-f3bf-4ea6-a95f-e2c2dd7f8c13" />
 
 ### osResatrt()
-<img width="469" height="838" alt="Screenshot 2025-09-10 090116" src="https://github.com/user-attachments/assets/ad49c6a0-8928-4eb8-83f7-9673b932fd4a" />
+<img width="300" height="550" alt="Screenshot 2025-09-10 090116" src="https://github.com/user-attachments/assets/ad49c6a0-8928-4eb8-83f7-9673b932fd4a" />
 
 ### onPause()
-<img width="467" height="837" alt="Screenshot 2025-09-10 090455" src="https://github.com/user-attachments/assets/b22bafd3-a63b-4f2b-97f8-4f1f826c59c6" />
+<img width="300" height="550" alt="Screenshot 2025-09-10 090455" src="https://github.com/user-attachments/assets/b22bafd3-a63b-4f2b-97f8-4f1f826c59c6" />
 
 
 
