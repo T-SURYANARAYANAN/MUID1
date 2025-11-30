@@ -32,7 +32,7 @@ Step 7: Save and run the application.
 ### Registeration Number : 212224040341
 
 ### activity_main.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -101,7 +101,7 @@ Step 7: Save and run the application.
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ### MainActivity.java
-```
+```java
 package com.example.lifecycle;
 
 import android.os.Bundle;
