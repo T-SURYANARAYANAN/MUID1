@@ -40,63 +40,16 @@ Step 7: Save and run the application.
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img"
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="291dp"
-        android:layout_height="93dp"
-        android:layout_marginStart="176dp"
-        android:layout_marginTop="131dp"
-        android:layout_marginEnd="177dp"
-        android:layout_marginBottom="581dp"
-        android:fontFamily="serif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        android:typeface="monospace"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.412"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.932" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="226dp"
-        android:layout_height="227dp"
-        android:layout_marginStart="56dp"
-        android:layout_marginTop="7dp"
-        android:layout_marginEnd="55dp"
-        android:layout_marginBottom="81dp"
-        android:fontFamily="cursive"
-        android:text="onStart(): Visible onResume(): Active onPause(): Hidden onStop(): Not visible onRestart(): Restarting onDestroy(): Destroyed"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.486"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.046" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="344dp"
-        android:layout_height="124dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="193dp"
-        android:fontFamily="sans-serif-black"
-        android:text="The Activity lifecycle is the set of states an Android app screen (an &quot;Activity&quot;) can be in. It is a series of callback methods that the Android system calls to manage the activity from its creation until it's destroyed."
-        android:textColor="#FFFDFD"
-        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
